@@ -2,7 +2,7 @@
 
 Developer from Hamburg. PHP and Symfony mostly, a Raspberry Pi homelab at home.
 
-[![Skills](https://skillicons.dev/icons?i=php,symfony,angular,docker,linux,raspberrypi)](#)
+[![Skills](https://skillicons.dev/icons?i=php,symfony,react,docker,linux,raspberrypi)](#)
 
 **Currently**
 - Building a private Symfony 7 SaaS: Doctrine, Stimulus, Playwright E2E, self-hosted CI runner
